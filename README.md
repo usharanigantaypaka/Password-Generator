@@ -16,7 +16,3 @@ A simple GUI-based Python application that generates secure random passwords bas
 - Secrets
 - Pyperclip
 
-## How to Run
-1. Install `pyperclip`.
-2. Run `password_generator.py`.
-3. Generate your password using the GUI.
